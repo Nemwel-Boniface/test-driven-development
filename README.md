@@ -50,6 +50,11 @@ Have fun with TDD!
 - Twitter: [@Nemwel Boniface](https://twitter.com/nemwel_bonie)
 - LinkedIn: [@Nemwel Bonifacej](https://www.linkedin.com/in/nemwel-nyandoroj/)
 
+👤 **Sangwa Didier**
+- GitHub: [Didier Sangwa](https://github.com/sangwa7)
+- Twitter: [@sangwa_7](https://twitter.com/sangwa_7)
+- LinkedIn: [Didier Sangwa](https://www.linkedin.com/in/didier-sangwa)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
