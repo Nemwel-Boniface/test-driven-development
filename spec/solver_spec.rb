@@ -1,7 +1,7 @@
 require_relative '../solver'
 
 describe Solver do
-  context 'Test the solver class' do
+  context 'Test the solver class: factorial' do
     it 'Returns an instance of the solver class' do
       calc = Solver.new
       @our_factorial = calc.factorial(2)
@@ -15,4 +15,17 @@ describe Solver do
     end
   end
 
+  context 'Test the solver class: reverse' do
+    it 'Returns an instance of the solver class' do
+      calc = Solver.new
+      @reversed_word = calc.reverse('hello')
+      expect(@reversed_word).to eq('olleh')
+    end
+
+    it 'Returns an instance of the solver class' do
+      calc = Solver.new
+      @reversed_word = calc.reverse('eye')
+      expect(@reversed_word).to eq('eye')
+    end
+  end
 end
