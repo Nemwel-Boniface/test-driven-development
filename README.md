@@ -20,6 +20,17 @@ Enjoy!
 - navigate to the folder
 `cd test-driven-development`
 
+## Testing
+- Clone the project
+`git clone git@github.com:Nemwel-Boniface/test-driven-development.git`
+- Installing the packages by running bundle install
+- `cd` to `spec` directory
+- Run `ruby <filename>.rb` or `rspec`
+
+
+### Prerequisites
+Internet connection and basic computing skills. Load the page and enjoy!
+
 Install Robocop
 
 `bundle install`
