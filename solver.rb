@@ -10,6 +10,13 @@ class Solver
              num.to_s
         end
     end
+
+    def reverse(word)
+        word.reverse
+    end
   end
+
   checker = Solver.new
   puts checker.fizzbuzz(15)
+
+  puts checker.reverse('Hello Selma')
