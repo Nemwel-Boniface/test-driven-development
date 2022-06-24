@@ -20,6 +20,17 @@ Enjoy!
 - navigate to the folder
 `cd test-driven-development`
 
+## Testing
+- Clone the project
+`git clone git@github.com:Nemwel-Boniface/test-driven-development.git`
+- Installing the packages by running bundle install
+- `cd` to `spec` directory
+- Run `ruby <filename>.rb` or `rspec`
+
+
+### Prerequisites
+Internet connection and basic computing skills. Load the page and enjoy!
+
 Install Robocop
 
 `bundle install`
@@ -49,6 +60,11 @@ Have fun with TDD!
 - GitHub: [@Nemwel Boniface](https://github.com/Nemwel-Boniface)
 - Twitter: [@Nemwel Boniface](https://twitter.com/nemwel_bonie)
 - LinkedIn: [@Nemwel Bonifacej](https://www.linkedin.com/in/nemwel-nyandoroj/)
+
+👤 **Sangwa Didier**
+- GitHub: [Didier Sangwa](https://github.com/sangwa7)
+- Twitter: [@sangwa_7](https://twitter.com/sangwa_7)
+- LinkedIn: [Didier Sangwa](https://www.linkedin.com/in/didier-sangwa)
 
 ## 🤝 Contributing
 
